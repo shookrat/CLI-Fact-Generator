@@ -7,9 +7,7 @@ Generate over 1000 facts straight from your terminal!
 
 >https://docs.conda.io/en/latest/miniconda.html#installing
 
-2\. Download and install the most recent miniconda version for your system:
-
->https://docs.conda.io/en/latest/miniconda.html#installing
+2\. Download and install the most recent miniconda version for your system
 
 3\. When the installer asks the question below, type "yes"
 >Do you wish the installer to initialize Miniconda3 by running conda init? [yes|no]... yes
